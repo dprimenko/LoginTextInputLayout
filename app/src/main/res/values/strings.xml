@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">LoginRelative</string>
-    <string name="txvUser">User</string>
-    <string name="txvPassword">Password</string>
-    <string name="chkRemember">Remember</string>
+    <string name="txvUser">Usuario</string>
+    <string name="txvPassword">Contaseña</string>
+    <string name="chkRemember">Recordar</string>
     <string name="btnCancel" translatable="false">Cancel</string>
     <string name="btnLogin" translatable="false">Login</string>
     <string name="edtPassword">Introduzca la contraseña</string>
